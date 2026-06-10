@@ -380,6 +380,7 @@ header {
 .header__img {
   width: 100%;
   max-width: 768px;
+  padding-left: 80px;
 }
 
 
@@ -588,17 +589,16 @@ header {
 }
 
 .value {
-  margin-top: 2rem;
-  margin-right: 2rem;
+  margin-top: 2.0rem;
+  margin-right: 2.0;
   display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
+flex-direction: column;
+align-items: flex-start;
+
 
 .value__title {
-  display: flex;
-  align-items: center;
-}
+display: flex;
+align-items: center;
 
 .value__img--wrapper {
   border-radius: 50%;
