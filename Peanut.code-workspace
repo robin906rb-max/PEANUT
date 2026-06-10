@@ -1,14 +1,10 @@
 {
-	"folders": [
-		{
-			"path": "."
-		},
-		{
-			"path": "../Desktop/assets"
-		}
-	],
-	"settings": {
-		"liveServer.settings.port": 5506,
-		"liveServer.settings.multiRootWorkspaceName": "Peanut"
-	}
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.port": 5502
+    }
 }
